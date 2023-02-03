@@ -1,3 +1,3 @@
 # Currency Converter
 
-A simple USD to other currency converter.
+A simple USD currency converter.
